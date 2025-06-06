@@ -7,6 +7,8 @@ It includes:
 - Projects
 - Contact info
 
+Live Website: https://meghanab1909.github.io/
+
 ### References, Copyright and License
 <ol>
   <li>Template Name: MyResume</li>
