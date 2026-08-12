@@ -7,7 +7,7 @@ It includes:
 - Projects
 - Contact info
 
-Live Website: https://meghanab1909.github.io/
+Live Website: https://meghanab1909.github.io/Portfolio/
 
 ### References, Copyright and License
 <ol>
